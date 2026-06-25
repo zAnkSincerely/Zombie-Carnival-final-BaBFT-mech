@@ -1,3 +1,25 @@
+Mechanical joint concepts: https://www.instagram.com/p/DZgAE2Pjf8y/?img_index=1
+
+BABFT's servos allow for an input angle of rotation of up to 90 degrees.
+Servos can additionally hold these positions when activated with a switch. 
+However, servos will not function if they are attatched to a mass which is too heavy, and can only be activated by a single set of inputs from a driver seat.
+This becomes more apparent when two servos are directly connected together (which would be done for rotation of masses >90 degrees, or if the mass needs to rotate in two seperate directions from the same driver seat).
+Servos act this way as they cannot exert a strong enough torque to rotate larger masses.
+This video explores three designs for alternate contraptions for rotation in BABFT:
+
+Rapid reflex joint:
+The front wheel can rotate left/right 30 degrees in addition to the wheel spinning.
+The hinges connecting the wheel to it's block prevent the wheel from spinning while allowing it to turn left/right.
+
+Wide angle joint (wheel):
+Classic wheels exert a greater torque than servos in BABFT.
+The torque of several wheels can be combined for rotation of any angle within a specified range (as allowed by the bar perpendicular to it, which would prevent rotations above an input amount)
+
+Wide angle joint (servos):
+The same effect as with wheels can be achieved with servos.
+However, significantly more servos would be needed (therefore more expensive) and this joint is more susceptible to failing.
+
+Draft 1 and 2: https://www.instagram.com/p/DZqUV9HDC-O/?img_index=1
 
 Draft 1 - Traditionally drawn, biro pen / Copic marker:
 Larger focus on buildup of visual interest and functionality over proportions and design goal. 
@@ -12,6 +34,3 @@ I tried to apply pointed slope shape language across the body (white) for a more
 The white helmet and coloured horns are reminiscent of a Gundam whilst the rounded shape and eyes take inspiration from a Ghanaian fertility doll's large head 
 (large heads symbollise intelligence in these dolls).
 I tried to implement broad block shapes (yellow) in reference to the wooden material which Ghanaian fertility dolls are made of.
-
-
-Draft 1 and 2: https://www.instagram.com/p/DZqUV9HDC-O/?img_index=1
